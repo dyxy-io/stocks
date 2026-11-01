@@ -48,7 +48,7 @@ Tokens of the same stock from different issuers are different assets with differ
 | Hours | 24/7, including weekends and US holidays |
 | Fractions | Fractional amounts supported |
 | Custody | Token held in the user's wallet |
-| DYXY fee | None. Network gas and liquidity provider fees only |
+| DYXY fee | Service fee, shown before confirmation. Not part of the referral program |
 
 ## Off-hours pricing
 
