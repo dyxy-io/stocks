@@ -45,7 +45,7 @@ Tokens of the same stock from different issuers are different assets with differ
 | Hours | 24/7, including weekends and US holidays |
 | Fractions | Fractional amounts supported |
 | Custody | Token held in the user's wallet |
-| Fee | DYXY trading fee on the traded amount, 10% less with a referral code |
+| Referral program | Not included: no discount, no network volume |
 
 ## Off-hours pricing
 
