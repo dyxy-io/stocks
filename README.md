@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://docs.dyxy.io/logo/dark.svg" alt="DYXY" height="48">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://docs.dyxy.io/logo/dark.svg">
+    <img src="https://docs.dyxy.io/logo/light.svg" alt="DYXY" height="48">
+  </picture>
 </p>
 
 # DYXY Stocks
@@ -45,7 +48,7 @@ Tokens of the same stock from different issuers are different assets with differ
 | Hours | 24/7, including weekends and US holidays |
 | Fractions | Fractional amounts supported |
 | Custody | Token held in the user's wallet |
-| Referral program | Not included: no discount, no network volume |
+| DYXY fee | None. Network gas and liquidity provider fees only |
 
 ## Off-hours pricing
 
