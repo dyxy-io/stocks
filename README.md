@@ -34,9 +34,7 @@ It is not a derivative: no leverage, no funding, no liquidation.
 | --- | --- | --- |
 | Ondo Global Markets | Ondo tokenized stocks and ETFs (e.g. TSLAon) | Ethereum, BNB Chain, Solana |
 | Backed | xStocks (e.g. TSLAx) | Solana and other networks |
-| Binance | bStocks (e.g. TSLAB) | BNB Chain |
 | Robinhood | Robinhood stock tokens | Robinhood Chain |
-| Coinbase | Coinbase tokenized stocks | Base |
 
 Tokens of the same stock from different issuers are different assets with different terms. The issuer is shown on every market page.
 
